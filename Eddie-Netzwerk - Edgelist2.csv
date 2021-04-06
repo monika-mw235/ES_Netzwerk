@@ -1,0 +1,11 @@
+from,to,weight,relationship,time
+es,cm,3,1,1
+es,lb,3,1,1
+es,ls,2,2,2
+es,jr,2,2,2
+cm,lb,3,1,1
+cm,es,3,1,1
+lb,cm,3,1,1
+ls,es,2,2,2
+jr,es,2,2,2
+lb,es,3,1,1
